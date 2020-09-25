@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class Desafio5 {
+public class VerificaSePar {
 
     public static void main(String[] args) throws IOException {
 
