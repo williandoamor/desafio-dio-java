@@ -2,6 +2,13 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
+
+/**
+ *Codigo desenvolvido por Alan Bidu
+ * e disponível em
+ * https://github.com/alanbidu/BootCamp-Java-DIO/blob/master/GincanaNoAcampamento.java
+ */
+
 public class GincanaNoAcampamento {
 
     public static void main(String[] args) {
